@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'AnimalsClassification'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DC991279D7E44AB9A7A0DAB82BCC4E60 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0A641C8B0DC248D9A5F6EAFF8C748308 }}
           package: .
